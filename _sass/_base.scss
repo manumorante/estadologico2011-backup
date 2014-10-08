@@ -31,10 +31,7 @@ html, body {
 #cabecera {
   width: 734px;
   height: 131px;
-  background-image: url(/images/w2_02.jpg);
-  background-repeat: no-repeat;
-  background-position: right top;
-  background-color: #2B3D51;
+  background: #2B3D51 url("../images/w2_02.jpg") right top no-repeat;
 }
 #cabecera img {
 
@@ -119,7 +116,7 @@ html, body {
   width: 410px;
   display: block;
   float: left;
-  background-image: url(../images/satelite.jpg);
+  background-image: url("../images/satelite.jpg");
   background-repeat: no-repeat;
   background-position: right bottom;
   padding-top: 25px;
@@ -137,7 +134,7 @@ html, body {
   height: 215px;
 }
 #webs img {
-  background-image: url(/images/bg_ico_web.jpg);
+  background-image: url("../images/bg_ico_web.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   padding: 7px;
@@ -162,7 +159,7 @@ html, body {
   width: 640px;
   display: block;
   float: left;
-  background-image: url(../images/satelite.jpg);
+  background-image: url("../images/satelite.jpg");
   background-repeat: no-repeat;
   background-position: right bottom;
   padding-top: 20px;
@@ -185,7 +182,7 @@ html, body {
   overflow: hidden;
 }
 #webs-portafolio img {
-  background-image: url(/images/bg_ico_web.jpg);
+  background-image: url("../images/bg_ico_web.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   padding: 7px;
@@ -223,7 +220,7 @@ html, body {
   overflow: hidden;
 }
 #minis-portafolio img {
-  background-image: url(/images/bg_mini.jpg);
+  background-image: url("../images/bg_mini.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   padding: 9px;
