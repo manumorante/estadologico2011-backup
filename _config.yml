@@ -3,7 +3,7 @@
 title: Estado Lógico 2011 Website
 email: manu@estadologico.com
 description: This is a old site for Estado Lógico
-baseurl: "/2011.estadologico.com" # e.g. /blog/
+baseurl: "/EL2011" # e.g. /blog/
 url: "http://manumorante.github.io/2011.estadologico.com/" # the base hostname & protocol for your site
 twitter_username: unavezfui
 github_username:  manumorante
